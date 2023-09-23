@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs />
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\jione\Desktop\강의\게임그래픽프로그래밍\Assignment1\Build\x64\Debug\Ass01.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\jione\Desktop\강의\게임그래픽프로그래밍\Assignment1\Build\x64\Debug\PS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\jione\Desktop\강의\게임그래픽프로그래밍\Assignment1\Build\x64\Debug\VS.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>
